@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- I’m currently working on **[Ashwood County](https://github.com/klutzyk/ashwood-county-3d-prototype)** - A 3D zombie-survival RPG focused on exploration and believable survivor relationships. Building with Godot 4 .NET and C#.
+- I’m currently working on **[Ashwood County](https://github.com/klutzyk/ashwood-county)** - A 3D zombie-survival RPG focused on exploration and believable survivor relationships. Building with Godot 4 .NET and C#.
 - Previously worked on
   * **[Role Guage](https://github.com/klutzyk/role-guage)** - an AI-powered job-fit intelligence platform that analyzes job ads, scores resume fit, identifies skill gaps, and helps candidates create targeted resumes.
   * **[Dialey AI](https://github.com/Dialey-AI/)** - an AI-powered platform that automates cold calling and customer interactions
